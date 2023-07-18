@@ -5,4 +5,4 @@ Section 6.1: [section6-1_simulation.py](https://github.com/sorawitj/effect-invar
 Section 6.3: [finding_invariant_sets.ipynb](https://github.com/sorawitj/effect-invariance/blob/main/heartstep_experiment/finding_invariant_sets.ipynb) \
 Section 6.4: [heartstep_zero_shot_simu.ipynb](https://github.com/sorawitj/effect-invariance/blob/main/heartstep_experiment/heartstep_zero_shot_simu.ipynb)
 
-For the experiments in Section 6.4, we use the publicly available dataset called [HeartStepsV1](https://github.com/klasnja/HeartStepsV1).
+For the experiments in Section 6.4, we use the publicly available dataset [HeartStepsV1](https://github.com/klasnja/HeartStepsV1).
